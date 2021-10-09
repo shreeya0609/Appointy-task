@@ -4,3 +4,4 @@ I am from B.tech EEE, III year.
 Being new to this area, I familiarised myself with basic concepts of GO and MONGODB.
 I first created a basic struct and included the parameters required such as ID, User, Person name and post.
 According to the specified parameters, I tried to write the code.
+I have added 2 branches in order to show the work as patch 1 and patch 2
